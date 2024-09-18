@@ -5,9 +5,6 @@ A Zoom Meeting clone project built using HTML, CSS, Tailwind CSS, and JavaScript
 
 <div align=center>
 
-## Must visit 👇 (Click on it)
-
-[<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" width="150" style="border-radius:10px">](https://www.youtube.com/c/CodeWithPankaj1?sub_confirmation=1)
 
 </div>
 
